@@ -67,5 +67,6 @@ function validateForm() {
         return false;
     } else {
         alert("Cảm ơn bạn đã để lại thông tin");
-    }
-}
+         document.getElementById("Message").style.display = "none";
+            }
+        }

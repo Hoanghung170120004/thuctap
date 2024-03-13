@@ -412,7 +412,8 @@ a.links:hover{
     position: relative;
     overflow: hidden;
     color: #0B60B0;
-    padding: 100px calc((100% - 1000px)/2);
+    padding: 5px calc((100% - 1000px)/2);
+
 }
 .testimonials__title{
     font-size: 30px;
